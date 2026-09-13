@@ -4,6 +4,7 @@ module.exports = {
   "name": "Cienie Przeszłości",
   "game": "Gothic II: Noc Kruka",
   "description": "Solucja do Gothic II: Cienie Przeszłości. Droga kopacza do grona Cieni w Starym Obozie, przed wydarzeniami Gothic I. Zadania, wybory i oba zakończenia.",
+  "heroDescription": "Zwykły kopacz pragnie zostać Cieniem, lecz druga szansa na awans wciąga go w intrygi, od których zależy przyszłość całej Kolonii.",
   "heroImage": "/img/cienie-przeszlosci-background.webp",
   "url": "https://cienie-przeszlosci.mody.sefaris.eu",
   "modUrl": "https://sefaris.eu/cienie-przeszlosci",
